@@ -7,4 +7,5 @@ xhofe/alist:latest
 #--platform=linux/arm64 xiaoyaliu/alist
 nevinee/qbittorrent:4.6.4
 jellyfin/jellyfin:2024091605-amd64
+nyanmisaka/jellyfin:latest
 
