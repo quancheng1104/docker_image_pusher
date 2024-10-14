@@ -8,5 +8,5 @@
 #nevinee/qbittorrent:4.6.4
 #jellyfin/jellyfin:2024091605-amd64
 #nyanmisaka/jellyfin:latest
-nevinee/qbittorrent:4.4.2
+linuxserver/qbittorrent:amd64-4.4.2-r3-ls186
 
